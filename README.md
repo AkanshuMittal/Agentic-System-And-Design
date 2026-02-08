@@ -19,3 +19,4 @@ Session 8 - Learn about Lists and slicing, Dictionaries for key-value data, Tupl
 Session 9 - Learn about Opening files (Open, close), Using 'With' blocks, Reading TXT files, Writing simple logs.
 
 
+
