@@ -24,3 +24,12 @@ def statistics(numbers):
     
     return total_count, total_sum, average
 
+
+def write_log(filename, count, total_sum, average):
+    with open(filename, "w") as log_file:
+        log_file.write("File opened successfully\n")
+        log_file.write(f"Read {count} numbers\n")
+        log_file.write(f"Sum: {total_sum}\n")
+        log_file.write(f"Average: {average}\n")
+        log_file.write("Processing completed\n")
+        
