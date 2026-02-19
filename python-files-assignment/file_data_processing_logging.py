@@ -33,3 +33,19 @@ def write_log(filename, count, total_sum, average):
         log_file.write(f"Average: {average}\n")
         log_file.write("Processing completed\n")
         
+def main():
+    input_file = "python-files-assignment/numbers.txt"
+    log_file = "python-files-assignment/results.log"
+    
+    numbers = read_numbers_from_file(input_file)
+
+    count, total_sum, average = statistics(numbers)
+
+    write_log(log_file, count, total_sum, average)
+    
+
+main()
+
+
+    
+    
