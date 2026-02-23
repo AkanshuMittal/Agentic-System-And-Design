@@ -44,8 +44,7 @@ def main():
     write_log(log_file, count, total_sum, average)
     
 
-main()
+main()  
 
 
-    
     
