@@ -23,3 +23,6 @@ Session 10 - Learning about how to create arrays, basic array math, shape and re
 Session 11 - Learning about Multidimensional arrays, slicing Numpy and generating random data using Numpy.
 
 Session 12 - Learning about JSON structure, dictionaries to JSON, Parsing API responses, Nested JSON handling.
+
+Session 13 - Learning about Pandas Series vs DataFrames, Loading CSV Files, Basic inspection (Head, Tail, Info, Describe).
+
