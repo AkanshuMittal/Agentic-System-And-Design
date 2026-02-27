@@ -26,3 +26,4 @@ Session 12 - Learning about JSON structure, dictionaries to JSON, Parsing API re
 
 Session 13 - Learning about Pandas Series vs DataFrames, Loading CSV Files, Basic inspection (Head, Tail, Info, Describe).
 
+Session 14 - Learning about how to select columns, row indexing, boolean filtering and sorting dataframes.
