@@ -28,3 +28,8 @@ Session 13 - Learning about Pandas Series vs DataFrames, Loading CSV Files, Basi
 
 Session 14 - Learning about how to select columns, row indexing, boolean filtering and sorting dataframes.
 
+Session 15 - Learning about how to handle missing values, GroupBy Operations, Basic aggregations (Sum, Mean, Count), Rename and Drop.
+
+
+
+
