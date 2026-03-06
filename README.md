@@ -6,6 +6,7 @@ Session 2 - Setup the VS Code, Github and make the virtual environment.
 
 Session 3 - Learn all about the Github and CLI commands like git add, git commit, git push, cd, ls etc.
 
+## Python
 Session 4 - Learn about the Python Variables, Data Types (int, floar, string, bool), Basic math , print and input functions.
 
 Session 5 - Learn about Conditionals(if-else), Boolean Logic, Logical Operators (And, Or, Not).
@@ -18,13 +19,28 @@ Session 8 - Learn about Lists and slicing, Dictionaries for key-value data, Tupl
 
 Session 9 - Learn about Opening files (Open, close), Using 'With' blocks, Reading TXT files, Writing simple logs.
 
+## Numpy
 Session 10 - Learning about how to create arrays, basic array math, shape and reshape using numpy and Performance vs Python Lists.
 
 Session 11 - Learning about Multidimensional arrays, slicing Numpy and generating random data using Numpy.
 
+## JSON
 Session 12 - Learning about JSON structure, dictionaries to JSON, Parsing API responses, Nested JSON handling.
 
+## Pandas
 Session 13 - Learning about Pandas Series vs DataFrames, Loading CSV Files, Basic inspection (Head, Tail, Info, Describe).
 
 Session 14 - Learning about how to select columns, row indexing, boolean filtering and sorting dataframes.
+
+Session 15 - Learning about how to handle missing values, GroupBy Operations, Basic aggregations (Sum, Mean, Count), Rename and Drop.
+
+## SQL
+Session 16 - Learning about Relational VS Non-Relational, Primary Keys, Tables and Rows and Database schema basics.
+
+Session 17 - Learning about SELECT AND WHERE, using DISTINCT, Sorting with ORDER BY, Limit and Aliases in SQL.
+
+Session 18 - Learning about Inner Joins, Left Joins, The power of the join, SQL mental model vs pandas merge.
+
+
+
 
