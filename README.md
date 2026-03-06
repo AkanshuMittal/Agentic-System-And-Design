@@ -39,6 +39,8 @@ Session 16 - Learning about Relational VS Non-Relational, Primary Keys, Tables a
 
 Session 17 - Learning about SELECT AND WHERE, using DISTINCT, Sorting with ORDER BY, Limit and Aliases in SQL.
 
+Session 18 - Learning about Inner Joins, Left Joins, The power of the join, SQL mental model vs pandas merge.
+
 
 
 
