@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv("employees.csv")
+df = pd.read_csv("python-pandas-assignment\\employees.csv")
 
 print(f"First 5 rows : \n{df.head()}")
 print()
