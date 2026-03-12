@@ -42,5 +42,7 @@ Session 17 - Learning about SELECT AND WHERE, using DISTINCT, Sorting with ORDER
 Session 18 - Learning about Inner Joins, Left Joins, The power of the join, SQL mental model vs pandas merge.
 
 
+### Matplotlib
+Session 19 - Learning about Line plots, Scatter plots, Bar charts, Labeling and titles and Basic aesthetics.
 
-
+Session 20 - Learning about Plotly for interactive charts, Choosing the right chart, Color theory basics and Exporting visuals.
