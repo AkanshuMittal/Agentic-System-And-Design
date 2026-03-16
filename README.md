@@ -46,3 +46,6 @@ Session 18 - Learning about Inner Joins, Left Joins, The power of the join, SQL 
 Session 19 - Learning about Line plots, Scatter plots, Bar charts, Labeling and titles and Basic aesthetics.
 
 Session 20 - Learning about Plotly for interactive charts, Choosing the right chart, Color theory basics and Exporting visuals.
+
+### EDA (Exploratory Data Analysis)
+Session 21 - Learning about Standard EDA steps, Identifying outliers, Correlation heatmaps and Building a data story.
