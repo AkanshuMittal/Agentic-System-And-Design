@@ -49,3 +49,7 @@ Session 20 - Learning about Plotly for interactive charts, Choosing the right ch
 
 ### EDA (Exploratory Data Analysis)
 Session 21 - Learning about Standard EDA steps, Identifying outliers, Correlation heatmaps and Building a data story.
+
+### APIs (Application Programming Interface)
+
+Session 22 - Learning about Requests library, GET vs POST, Handling Status Codes and API Documentation reading.
