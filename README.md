@@ -53,3 +53,9 @@ Session 21 - Learning about Standard EDA steps, Identifying outliers, Correlatio
 ### APIs (Application Programming Interface)
 
 Session 22 - Learning about Requests library, GET vs POST, Handling Status Codes and API Documentation reading.
+
+Session 23 - Learning about API Terms of Service (ToS), Rate Limiting, Environment Variables for Keys and Data Privacy Basics.
+
+### EDA Workshop
+
+Session 24 - Learning about how to ingesting raw API data, Cleaning with pandas, Visualizing insights and Simple Streamlit demo.
