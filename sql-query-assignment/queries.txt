@@ -12,7 +12,7 @@ class Integer
 # Insert Sample Data:
 INSERT INTO STUDENTS (id, name, score, passed, class)
 VALUES 
-(1, 'Parav', 92, TRUE, 10),
+(1, 'Aarav', 92, TRUE, 10),
 (2, 'Divya', 76, TRUE, 10),
 (3, 'Rohan', 65, FALSE, 9),
 (4, 'Meera', 88, TRUE, 10),
@@ -33,11 +33,21 @@ SELECT name, score FROM STUDENTS;
 # Retrieve students who scored above 80:
 SELECT * FROM STUDENTS WHERE score > 80;
 
-# Retrieve students who scored above 80 AND passed.
+# Retrieve students who scored above 80 AND passed:
 SELECT * FROM STUDENTS WHERE score > 80 AND passed = TRUE;
 
-# Retrieve students who scored above 85 OR belong to class 9
+# Retrieve students who scored above 85 OR belong to class 9:
 SELECT * FROM STUDENTS WHERE score > 85 OR class = 9;
 
-# Retrieve students who did NOT pass the exam
+# Retrieve students who did NOT pass the exam:
 SELECT * FROM STUDENTS WHERE NOT passed;
+
+# Return a list of distinct classes:
+SELECT DISTINCT class FROM STUDENTS;
+
+# Retrieve the top 5 highest-scoring students:
+SELECT * FROM STUDENTS ORDER BY score DESC LIMIT 5;
+
+# Retrieve students sorted first by class (ascending) and then by score (descending):
+SELECT * FROM STUDENTS ORDER BY class, score DESC;
+
