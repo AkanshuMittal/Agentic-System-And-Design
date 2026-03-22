@@ -1,7 +1,6 @@
 ## AI Data Retrieval and Ranking Query Design
 
 # Create the Table:
-
 CREATE TABLE STUDENTS (
 id Integer Primary Key,
 name Text,
@@ -10,8 +9,7 @@ passed Boolean,
 class Integer
 );
 
-# Insert Sample Data 
-
+# Insert Sample Data:
 INSERT INTO STUDENTS (id, name, score, passed, class)
 VALUES 
 (1, 'Parav', 92, TRUE, 10),
@@ -26,8 +24,20 @@ VALUES
 (10, 'Kavya', 69, FALSE, 10);
 
 
-# Retrieve all columns from the students table
+# Retrieve all columns from the students table:
 SELECT * FROM STUDENTS;
 
-# Retrieve only the name and score columns
+# Retrieve only the name and score columns:
 SELECT name, score FROM STUDENTS;
+
+# Retrieve students who scored above 80:
+SELECT * FROM STUDENTS WHERE score > 80;
+
+# Retrieve students who scored above 80 AND passed.
+SELECT * FROM STUDENTS WHERE score > 80 AND passed = TRUE;
+
+# Retrieve students who scored above 85 OR belong to class 9
+SELECT * FROM STUDENTS WHERE score > 85 OR class = 9;
+
+# Retrieve students who did NOT pass the exam
+SELECT * FROM STUDENTS WHERE NOT passed;
