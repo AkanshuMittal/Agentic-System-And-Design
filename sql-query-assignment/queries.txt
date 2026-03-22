@@ -26,3 +26,8 @@ VALUES
 (10, 'Kavya', 69, FALSE, 10);
 
 
+# Retrieve all columns from the students table
+SELECT * FROM STUDENTS;
+
+# Retrieve only the name and score columns
+SELECT name, score FROM STUDENTS;
