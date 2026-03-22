@@ -51,3 +51,13 @@ SELECT * FROM STUDENTS ORDER BY score DESC LIMIT 5;
 # Retrieve students sorted first by class (ascending) and then by score (descending):
 SELECT * FROM STUDENTS ORDER BY class, score DESC;
 
+# Use an alias to rename score as final_score:
+SELECT score as final_score FROM STUDENTS;
+
+# Write one combined query that:
+- Selects name and score
+- Filters students who scored above 75
+- Sorts by score in descending order
+- Returns only the top 3 results
+
+SELECT name, score FROM STUDENTS WHERE score > 75 ORDER BY score DESC LIMIT 3;
