@@ -1,0 +1,28 @@
+## AI Data Retrieval and Ranking Query Design
+
+# Create the Table:
+
+CREATE TABLE STUDENTS (
+id Integer Primary Key,
+name Text,
+score Integer,
+passed Boolean,
+class Integer
+);
+
+# Insert Sample Data 
+
+INSERT INTO STUDENTS (id, name, score, passed, class)
+VALUES 
+(1, 'Parav', 92, TRUE, 10),
+(2, 'Divya', 76, TRUE, 10),
+(3, 'Rohan', 65, FALSE, 9),
+(4, 'Meera', 88, TRUE, 10),
+(5, 'Kabir', 54, FALSE, 9),
+(6, 'Ananya', 95, TRUE, 10),
+(7, 'Rahul', 81, TRUE, 9),
+(8, 'Sneha', 73, TRUE, 9),
+(9, 'Arjun', 84, TRUE, 10),
+(10, 'Kavya', 69, FALSE, 10);
+
+
