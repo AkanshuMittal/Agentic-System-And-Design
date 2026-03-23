@@ -58,4 +58,4 @@ Session 23 - Learning about API Terms of Service (ToS), Rate Limiting, Environme
 
 ### EDA Workshop
 
-Session 24 - Learning about how to ingesting raw API data, Cleaning with pandas, Visualizing insights and Simple Streamlit demo.
+Session 24 - Learning about how to ingesting raw API data, Cleaning with pandas, Visualizing insights and Simple Streamlit demo.    
