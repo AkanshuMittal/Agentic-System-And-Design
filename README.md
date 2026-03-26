@@ -1,5 +1,6 @@
 # Agentic-System-And-Design
-
+Module 1 - Foundations
+--------------------------------------------------------------------------------------------------------------
 Session 1 - Learn about AI Landscape
 
 Session 2 - Setup the VS Code, Github and make the virtual environment.
@@ -57,5 +58,14 @@ Session 22 - Learning about Requests library, GET vs POST, Handling Status Codes
 Session 23 - Learning about API Terms of Service (ToS), Rate Limiting, Environment Variables for Keys and Data Privacy Basics.
 
 ### EDA Workshop
-
 Session 24 - Learning about how to ingesting raw API data, Cleaning with pandas, Visualizing insights and Simple Streamlit demo.    
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Module 2 - Fundamentals of ML
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## (ML Workflow and Habits)
+Session 25 - Learning about problem framing, features vs labels, Training/Validation/Test split and Baselines.
